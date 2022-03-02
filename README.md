@@ -3,7 +3,7 @@ as a Full-Stack Software engineer in the telecommunication and real-time communi
 
 - 🌱 Currently located in the Netherlands, I am gathering new knowledge in Computational Science and Artificial Intelligence to push my career forward.
 - 🔭 Working as a Research intern to the Centrum Wiskunde & Informatica, the national research institute for mathematics & computer science in the Netherlands.
-- 🤝 Open to hear about opportunities in the field of computational sciences and software engineering in the APAC region.
+- 🤝 Open to hear about opportunities in the field of computational sciences and software engineering.
 - 💻 All of my projects are available [here](https://github.com/vdesgrange).
 - 📫 [Connect with me](https://www.linkedin.com/in/viviane-desgrange-1b8554109/)
 
