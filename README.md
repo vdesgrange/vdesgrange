@@ -36,4 +36,4 @@ as a Full-Stack Software engineer in the telecommunication and real-time communi
 </p>
 
 <p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=vdesgrange&show_icons=true&theme=radical&hide=Jupyter%20Notebook,Matlab,TeX&langs_count=6&show_icons=true&locale=en&layout=compact" alt="Viviane Desgrange" />
-<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=vdesgrange&count_private=true&hide=contribs,issues&show_icons=true&locale=en" alt="Viviane Desgrange" /></p>
+<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=vdesgrange&show_icons=true&theme=radical&count_private=true&hide=contribs,issues&show_icons=true&locale=en" alt="Viviane Desgrange" /></p>
